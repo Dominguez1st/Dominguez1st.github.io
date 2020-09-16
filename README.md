@@ -16,3 +16,7 @@ work on personal projects while looking for employment as a Java programmer.
 ## Links
 
 * [LinkedIn](https://www.linkedin.com/in/robert-dominguez-0a5553178/)
+
+> A blockquote indicates that the content is a quote, an e-mail being replied to, etc.
+> 
+> Every line (blank or not) of a blockquote begins with `>`, followed by a space.
