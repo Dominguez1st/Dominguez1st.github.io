@@ -9,10 +9,10 @@ work on personal projects while looking for employment as a Java programmer.
 	
 ## Current projects
 
-* Hello World: Java console application
+* [Hello World: Java console application](https://github.com/Dominguez1st/deep-dive-hello-world-ij)
       
-* Hello World: Android app
+* [Hello World: Android app](https://github.com/Dominguez1st/android-hello-world)
 
 ## Links
 
-[LinkedIn](https://www.linkedin.com/in/robert-dominguez-0a5553178/)
+* [LinkedIn](https://www.linkedin.com/in/robert-dominguez-0a5553178/)
