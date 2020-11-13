@@ -1,5 +1,3 @@
-# Robert E Dominguez
-    
 ## Introduction
     
 My name's Robert Dominguez and I am currently attending the Deep Dive Coding Java + Android Bootcamp.
