@@ -7,9 +7,11 @@ work on personal projects while looking for employment as a Java programmer.
 	
 ## Current projects
 
-* [Hello World: Java console application](https://github.com/Dominguez1st/deep-dive-hello-world-ij)
-      
-* [Hello World: Android app](https://github.com/Dominguez1st/android-hello-world)
+* [Tunefull](https://tunefull.github.io/)
+  * [Tunefull Github](https://github.com/tunefull)
+
+*  [Project Card Combat](https://dominguez1st.github.io/card-combat/)
+  * [Project Card Combat Github](https://github.com/Dominguez1st/card-combat)
 
 ## Recently updated repositories
 
@@ -18,6 +20,12 @@ work on personal projects while looking for employment as a Java programmer.
 * [{{ repo.name }}]({{ repo.html_url }})
 {% endfor %}
 
+## Current Interest
+	
+* Seeking employment as a Junior Java Developer.
+
 ## Links
 
 * [LinkedIn](https://www.linkedin.com/in/robert-dominguez-0a5553178/)
+
+* [Github](https://github.com/Dominguez1st)
