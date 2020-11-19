@@ -3,4 +3,4 @@ description:
 titles_from_headings: 
   enabled: false
   
-theme: jekyll-theme-tactile
+theme: jekyll-theme-slate
