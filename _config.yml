@@ -2,3 +2,5 @@ title: Robert Dominguez
 description: 
 titles_from_headings: 
   enabled: false
+  
+theme: jekyll-theme-tactile
