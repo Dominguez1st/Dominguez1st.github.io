@@ -1,3 +1,5 @@
+<img src="20190114_143835.jpg" width="225">
+
 ## Introduction
     
 My name's Robert Dominguez and I am currently attending the Deep Dive Coding Java + Android Bootcamp.
