@@ -1,4 +1,4 @@
-<img src="20190114_143835.jpg" width="225">
+<img src="20190114_143835.jpg" width="250">
 
 ## Introduction
     
