@@ -8,9 +8,11 @@ work on personal projects while looking for employment as a Java programmer.
 ## Current projects
 
 * [Tunefull](https://tunefull.github.io/)
+
   * [Tunefull Github](https://github.com/tunefull)
 
 *  [Project Card Combat](https://dominguez1st.github.io/card-combat/)
+
   * [Project Card Combat Github](https://github.com/Dominguez1st/card-combat)
 
 ## Recently updated repositories
